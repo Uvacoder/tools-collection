@@ -56,8 +56,6 @@ export default function Home() {
 
       <style jsx>{`
         .container {
-          width: 400px;
-          height: 300px;
           min-height: 100vh;
           padding: 0 0.5rem;
           display: flex;
